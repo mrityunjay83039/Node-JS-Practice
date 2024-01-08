@@ -1,0 +1,1 @@
+this is the file which need to copy in destinationDir using fs module of Node JS
